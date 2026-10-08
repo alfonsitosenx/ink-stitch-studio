@@ -6,12 +6,12 @@ Windows app by [Excess Pro Net LLC](https://excesspronet.com) that converts whol
 
 ## Download
 
-**[Latest release](https://github.com/alfonsitosenx/ink-stitch-studio/releases/latest)** â€” `InkStitchStudio-2.0.0-Setup.exe` (21.6 MB)
+**[Latest release](https://github.com/alfonsitosenx/ink-stitch-studio/releases/latest)** â€” `InkStitchStudio-2.0.1-Setup.exe` (21.6 MB)
 
 ## Requirements
 
 - Windows 10 or 11, 64-bit
-- About 400 MB of disk space
+- About 100 MB of disk space
 - Two free programs, installed separately: [Inkscape](https://inkscape.org) and [Ink/Stitch](https://inkstitch.org) (install Inkscape first). The app detects both and shows a green status when it's ready.
 - Internet only for licence activation
 
